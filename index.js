@@ -84,3 +84,7 @@ function renderApp() {
 }
 
 renderApp();
+
+
+document.body.style.border = "1px solid black";
+document.body.style.padding = "20px";
