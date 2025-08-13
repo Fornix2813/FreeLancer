@@ -88,3 +88,8 @@ renderApp();
 
 document.body.style.border = "1px solid black";
 document.body.style.padding = "20px";
+
+document.body.style.fontFamily = "Arial, sans-serif";
+document.body.style.backgroundColor = "blue";
+document.body.style.color = "white";
+
